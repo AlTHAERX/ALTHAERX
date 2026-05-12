@@ -53,6 +53,7 @@
 | Project | Stack | Description |
 | :--- | :--- | :--- |
 | **Habit Tracker** | `React Native` `AppWrite` | High-performance habit tracking mobile app. |
+| Recipalyze | React Native Expo API Integration | High-performance mobile application connected to the Recipalyze website, featuring recipe analytics, data comparison charts, and real-time API integration. |
 | **Food Delivery** | `React Native` `Supabase` | Responsive food ordering platform with real-time sync. |
 | **School Management** | `Python` `SQLite` | Comprehensive offline desktop application for data management. |
 | **Medical System** | `Python` `MongoDB` | Secure patient record management for healthcare organizations. |
